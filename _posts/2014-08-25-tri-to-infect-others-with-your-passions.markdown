@@ -15,7 +15,7 @@ Other friends, who already ran in running events decided they’d try their firs
 
 This year, except for Jess who was pregnant, the other friends went on to do their second Sprint Tri, and they brought a fifth person into the mix for their rookie year. It was spreading! There is no improvement more gratifying to watch than the early improvement once someone has done a Tri before. One of our crew, who last year  had to stop and hang onto each lifeguard boat as she passed them, this year had the milestone of doing the swim unassisted!
 
-{% img http://upload.wikimedia.org/wikipedia/commons/5/59/KM_5939_triathlon_swimmers.jpg 627 205 %}
+![image](http://upload.wikimedia.org/wikipedia/commons/5/59/KM_5939_triathlon_swimmers.jpg)
 
 There’s an old African proverb; “If you want to go fast, go alone; if you want to go far, you must go together” This is true in a broader sense than you may think. It can be bittersweet to trade off some of one’s own performance to help another. But that is what makes converts, and new happy converts can keep your own motivation high for longer than you can do it yourself. If you’re willing to see them eventually overtake you, and be truly happy for their progress, than you are truly fighting the good fight!
 
@@ -23,4 +23,4 @@ There’s an old African proverb; “If you want to go fast, go alone; if you wa
 
 Footnote: I’m actually very glad to have [these results](http://bit.ly/1AQCtD2),  exiting the 35-39 age group with a time in the top 20% of my age group and top 13% overall. In many senses this is a personal best for me, even if not the fastest overall time. That’s a wonderful thing about triathlon- there are so many independent ways to improve! I almost think that improvement is automatic as a function of hours put in- “that which is measured, and focused upon- improves” So I’m glad I did not miss the chance to convert a few new folks, only to rise a few measly percent in overall standing - I'm not going pro any day, anyhow.
 
-{% img https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xpa1/t1.0-9/10345763_10152300922172555_3487324894273276166_n.jpg 669 502 %}
+![image](https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xpa1/t1.0-9/10345763_10152300922172555_3487324894273276166_n.jpg)
